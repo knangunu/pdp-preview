@@ -185,7 +185,7 @@ app.get('/:sessionId', (req, res) => {
 
 app.get('/', (req, res) => {
   res.send(`
-    <h1>Media Upload Server</h1>
+    <h1>Media Upload Server..</h1>
     <p>Use the following endpoints:</p>
     <ul>
       <li><strong>v:</strong> 6</li>
